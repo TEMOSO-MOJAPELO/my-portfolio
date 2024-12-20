@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.59f3dfad.css",
+    "main.js": "/my-portfolio/static/js/main.d5e2415c.js",
+    "static/media/BTMLogo.png": "/my-portfolio/static/media/BTMLogo.acd90858d21199bb6a61.png",
+    "static/media/predictUI.png": "/my-portfolio/static/media/predictUI.7bc4880e8af16deacb31.png",
+    "static/media/php.png": "/my-portfolio/static/media/php.b8004b5995444bfd8001.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Calculator.png": "/my-portfolio/static/media/Calculator.54413e51944c19a8be71.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/predictapp.png": "/my-portfolio/static/media/predictapp.7dda8e57e6f413ceeda6.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.59f3dfad.css.map": "/my-portfolio/static/css/main.59f3dfad.css.map",
+    "main.d5e2415c.js.map": "/my-portfolio/static/js/main.d5e2415c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f3dfad.css",
+    "static/js/main.d5e2415c.js"
+  ]
+}
